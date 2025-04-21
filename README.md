@@ -1,6 +1,6 @@
 # <span style="font-size: 2.5em; font-weight: 800;">CryptoTracker</span>
 
-![CryptoTracker Dashboard](image.png)
+![image](https://github.com/user-attachments/assets/48e43813-c678-4b59-9d50-46970ab80a88)
 
 ## <span style="font-size: 1.8em; font-weight: 700;">Crypto Market Intelligence</span>
 
